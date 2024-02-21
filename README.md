@@ -45,5 +45,5 @@
 
 ---
 
-![Зависимость качества поиска оригинала от количества отобранных кандидатов](https://github.com/Nanobelka/prosept_matching/blob/main/images/accuracy%4020.png)
+![Зависимость качества поиска оригинала от количества отобранных кандидатов](https://github.com/Nanobelka/prosept_matching/blob/main/images/accuracy%40N.png)
 *Зависимость качества поиска оригинала от количества отобранных кандидатов*
