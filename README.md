@@ -1,4 +1,4 @@
-# Мэтчинг товаров по описанию
+# [Мэтчинг товаров по описанию](https://nbviewer.jupyter.org/github/Nanobelka/prosept_matching/blob/main/procept_github.ipynb)
 
 Решение для хакатона  
 Заказчик: компания **"Просепт"**, специализирующаяся на выпуске профессиональной химии
